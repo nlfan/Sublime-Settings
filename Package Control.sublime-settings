@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Arduino",
+		"Arduino-like IDE",
+		"ConvertToUTF8",
+		"Git",
+		"Haml",
+		"Hex to HSL Color Converter",
+		"Package Control",
+		"sublime-better-coffeescript"
+	]
+}

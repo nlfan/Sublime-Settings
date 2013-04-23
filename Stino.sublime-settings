@@ -1,0 +1,9 @@
+{
+	"baudrate": "9600",
+	"global_setting": true,
+	"language": "Chinese Simplified",
+	"serial_port": "COM1",
+	"show_arduino_menu": false,
+	"show_serial_monitor_menu": "",
+	"sketchbook_root": "C:\\Users\\1\\Documents\\Arduino"
+}

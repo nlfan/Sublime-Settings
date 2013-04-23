@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 13.0,
+	"ignored_packages":
+	[
+	],
+    "trim_trailing_white_space_on_save": true,
+	"translate_tabs_to_spaces": true,
+    "ensure_newline_at_eof_on_save": true,
+    "indent_to_bracket": true,
+    "bold_folder_labels": true
+}
